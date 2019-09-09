@@ -6,3 +6,5 @@ Click the <<VIEW>> button to see a Tableau storyboard. This storyboard is about 
 link to demo: https://public.tableau.com/profile/will6221#!/vizhome/DefaultRatesStoryboard/Story1?publish=yes
 
 link to code: https://github.com/naga456/Tableau
+
+Tools/Languages: Tableau
